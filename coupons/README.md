@@ -66,8 +66,8 @@ Under-21 customers are at least 30% more likely to accept coffee coupons compare
 - **Coffee Coupons**: Under 21 year olds, is a signficant demographic to target for coffee coupons.  And in snowy weather, focusing on the under 21's who have only visited 1-3 times for the month, has a positive return.
 
 ##### Contact and Further Information
-Shawn Arney
+Shawn Arney  
 Shawn@ArneyConsulting.com
 
-(719) 428-5126
+(719) 428-5126  
 https://www.linkedin.com/in/shawnarney/

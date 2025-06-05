@@ -33,8 +33,8 @@ Using a Decision Tree Model can narrow the focus for marketing campaigns, on the
 - **Use a Decision Tree Model** To narrow the list of bank clients for a marketing campaign.  To the most likely candidates who will purchase a term deposit.
 
 ##### Contact and Further Information
-Shawn Arney
+Shawn Arney  
 Shawn@ArneyConsulting.com
 
-(719) 428-5126
+(719) 428-5126  
 https://www.linkedin.com/in/shawnarney/

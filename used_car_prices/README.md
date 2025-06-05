@@ -37,8 +37,8 @@ Followed by convertibles, coupes and then pickups.
 Prioritize mileage, year, and manufacturer.  This will impact the price of a used car, the most.
 
 ##### Contact and Further Information
-Shawn Arney
+Shawn Arney  
 Shawn@ArneyConsulting.com
 
-(719) 428-5126
+(719) 428-5126  
 https://www.linkedin.com/in/shawnarney/
