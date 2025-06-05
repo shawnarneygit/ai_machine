@@ -1,10 +1,9 @@
 # AI Machine Learning Portfolio
 
-## Used Car Prices  
+## Used Car Prices
 For dealerships to determine the vehicles features, that drive used car prices.
 
 **ML Project with code, and data visualizations and analysis: [here](used_car_prices).**
-
 ![Ridge](used_car_prices/images/ridge.jpg)
 
 ## Coupon Analysis  
