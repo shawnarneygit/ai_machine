@@ -1,18 +1,18 @@
 # AI Machine Learning Portfolio
 
-## Used Car Prices
-#### For dealerships to determine the vehicles features, that drive used car prices.
+### Used Car Prices
+For dealerships to determine the vehicles features, that drive used car prices.
 
 **ML Project with code, and data visualizations and analysis: [here](used_car_prices).**
 ![Ridge](used_car_prices/images/ridge.jpg)
 
-## Coupon Analysis  
+### Coupon Analysis
 Will a driver accept the coupon?
 
 **ML Project with code, and data visualizations and analysis: [here](coupons).**
 ![under21](coupons/images/coffee_final.png)
 
-## Marketing Campaign  
+### Marketing Campaign
 During a marketing campaign, will a bank client subscribe to a term deposit?
 
 **ML Project with code, and data visualizations and analysis: [here](marketing_campaign).**
