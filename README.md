@@ -1,7 +1,7 @@
 # AI Machine Learning Portfolio
 
 ## Used Car Prices
-For dealerships to determine the vehicles features, that drive used car prices.
+#### For dealerships to determine the vehicles features, that drive used car prices.
 
 **ML Project with code, and data visualizations and analysis: [here](used_car_prices).**
 ![Ridge](used_car_prices/images/ridge.jpg)
@@ -10,17 +10,15 @@ For dealerships to determine the vehicles features, that drive used car prices.
 Will a driver accept the coupon?
 
 **ML Project with code, and data visualizations and analysis: [here](coupons).**
-
 ![under21](coupons/images/coffee_final.png)
 
 ## Marketing Campaign  
 During a marketing campaign, will a bank client subscribe to a term deposit?
 
 **ML Project with code, and data visualizations and analysis: [here](marketing_campaign).**
-
 ![matrix](marketing_campaign/images/confusion_matrix_dt.jpg)
 
-##### Contact and Further Information
+#### Contact and Further Information
 Shawn Arney  
 Shawn@ArneyConsulting.com
 
