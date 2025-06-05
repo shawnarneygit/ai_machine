@@ -1,6 +1,6 @@
 # Will a driver accept the coupon?
 
-**Jupyter Notebook with code, and data visualizations and analysis: [here](https://github.com/shawnarneygit/ai_machine/blob/master/coupons/coupons.ipynb).**
+**Jupyter Notebook with code, and data visualizations and analysis: [here](coupons.ipynb).**
 
 ## Business Goal
 Distinguish between customers who accepted a driving coupon versus those who did not.
@@ -15,7 +15,7 @@ There are three possible answers people can choose from:
 
 The first two responses are labeled as “Y = 1,” and the third is labeled as “Y = 0.” There are five different types of coupons: Less expensive restaurants (under $20), coffee houses, carryout and takeaway, bars, and more expensive restaurants ($20–$50).
 
-[Coupon dataset](https://github.com/shawnarneygit/ai_machine/blob/master/coupons/data/coupons.csv)
+[Coupon dataset](data/coupons.csv)
 
 ## Modeling and performance
 Acceptance rates for Bar and Coffee coupons were compared across various age groups and demographic characteristics. 
@@ -64,3 +64,10 @@ Under-21 customers are at least 30% more likely to accept coffee coupons compare
 - **Bar Coupons:** Sending coupons to those with at least one bar visit a month and without a child passenger.  Has a 60%+ more effective response rate.  
 
 - **Coffee Coupons**: Under 21 year olds, is a signficant demographic to target for coffee coupons.  And in snowy weather, focusing on the under 21's who have only visited 1-3 times for the month, has a positive return.
+
+##### Contact and Further Information
+Shawn Arney
+Shawn@ArneyConsulting.com
+
+(719) 428-5126
+https://www.linkedin.com/in/shawnarney/

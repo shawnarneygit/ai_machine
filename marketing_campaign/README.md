@@ -1,6 +1,6 @@
 # During a marketing campaign, will a bank client subscribe to a term deposit?
 
-**Jupyter Notebook with code, and data visualizations and analysis: [here](https://github.com/shawnarneygit/ai_machine/blob/master/marketing_campaign/marketing_campaign.ipynb).**
+**Jupyter Notebook with code, and data visualizations and analysis: [here](marketing_campaign.ipynb).**
 
 ## Business Goal
 In order to focus effort and limited resources on the most likely bank clients for marketing campaign.
@@ -32,4 +32,9 @@ Using a Decision Tree Model can narrow the focus for marketing campaigns, on the
 
 - **Use a Decision Tree Model** To narrow the list of bank clients for a marketing campaign.  To the most likely candidates who will purchase a term deposit.
 
+##### Contact and Further Information
+Shawn Arney
+Shawn@ArneyConsulting.com
 
+(719) 428-5126
+https://www.linkedin.com/in/shawnarney/
