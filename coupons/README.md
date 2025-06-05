@@ -1,6 +1,6 @@
 # Will a driver accept the coupon?
 
-**Jupyter Notebook with code, and data visualizations and analysis: [here](https://github.com/shawnarneygit/ai_machine_learning/blob/master/coupons.ipynb).**
+**Jupyter Notebook with code, and data visualizations and analysis: [here](https://github.com/shawnarneygit/ai_machine/blob/master/coupons/coupons.ipynb).**
 
 ## Business Goal
 Distinguish between customers who accepted a driving coupon versus those who did not.
@@ -15,7 +15,7 @@ There are three possible answers people can choose from:
 
 The first two responses are labeled as “Y = 1,” and the third is labeled as “Y = 0.” There are five different types of coupons: Less expensive restaurants (under $20), coffee houses, carryout and takeaway, bars, and more expensive restaurants ($20–$50).
 
-[Coupon dataset](https://github.com/shawnarneygit/ai_machine_learning/blob/master/data/coupons.csv)
+[Coupon dataset](https://github.com/shawnarneygit/ai_machine/blob/master/coupons/data/coupons.csv)
 
 ## Modeling and performance
 Acceptance rates for Bar and Coffee coupons were compared across various age groups and demographic characteristics. 
