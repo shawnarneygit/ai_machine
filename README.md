@@ -25,7 +25,7 @@ A Lasso regression model offered only a marginal improvement—reducing MAE by a
 
 Overall, SARIMAX remains a strong benchmark for daily Bitcoin price forecasts.
 
-**ML Project with code, and data visualizations and analysis: Available via walkthru over Zoom.  Not open to the public.**
+**ML Project with code, and data visualizations and analysis: Available via walkthru over Zoom.  Not available to the public.**
 ![sarimax](images/sarimax_results.png)
 
 #### Contact and Further Information
