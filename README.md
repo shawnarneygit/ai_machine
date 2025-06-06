@@ -19,13 +19,13 @@ During a marketing campaign, will a bank client subscribe to a term deposit?
 ![matrix](marketing_campaign/images/confusion_matrix_dt.jpg)
 
 ### Predicting Tomorrow's Bitcoin Price
-Predicting the next day’s Bitcoin closing price on a daily timeframe, our SARIMAX baseline achieved a MAPE of 1.77% and an MAE of $898.27. 
+Predicting the next day’s Bitcoin closing price on a daily timeframe, our SARIMAX baseline achieved a Mean Absolute Percentage Error (MAPE) of 1.77% and an Mean Absolute Error (MAE) of $898.27. 
 
 A Lasso regression model offered only a marginal improvement—reducing MAE by about $2—while matching the same 1.77% MAPE. 
 
 Overall, SARIMAX remains a strong benchmark for daily Bitcoin price forecasts.
 
-**ML Project with code, and data visualizations and analysis: Available walkthru over Zoom.  Not available to the public.**
+**ML Project with code, and data visualizations and analysis: Available via walkthru over Zoom.  Not open to the public.**
 ![sarimax](images/sarimax_results.png)
 
 #### Contact and Further Information
