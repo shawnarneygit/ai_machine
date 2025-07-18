@@ -34,3 +34,5 @@ Shawn@ArneyConsulting.com
 
 (719) 428-5126  
 https://www.linkedin.com/in/shawnarney/
+
+[Resume](arney_resume.pdf) 
